@@ -1,0 +1,21 @@
+# Core ML & Embeddings
+torch
+torchvision
+transformers
+accelerate
+sentence-transformers
+
+# Vector Store & Retrieval
+chromadb
+rank-bm25
+
+# Web Backend & Frontend
+fastapi
+uvicorn
+streamlit
+
+# Data & Utilities
+pandas
+numpy
+pydantic
+python-multipart
